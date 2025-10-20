@@ -1,4 +1,4 @@
-# 📱 **ROOT SETUP AUTOMÁTICO**
+# 📱 **ROOT SETUP**
 ### **Script para Termux (Android) - Por Mtx-rng**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mtx--rng-blue?logo=github)](https://github.com/Mtx-rng)
