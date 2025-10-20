@@ -1,2 +1,3 @@
 # Root
-Concede acesso root para Scripts no termux  
+Concede acesso root para Scripts no termux
+possivel baixar ferramentas como jhon hydra etc...
